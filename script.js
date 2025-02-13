@@ -1,5 +1,5 @@
 const colors = ["#ff6f91", "#ff9671", "#ffc75f", "#f9f871", "#ff4c4c", "#ffcc00"];
-const letters = "Grecia ♡"; // Mensaje que aparecerá en la explosión
+const letters = "I MISS YOU"; // Mensaje que aparecerá en la explosión
 let letterIndex = 0;
 
 // Obtener la siguiente letra en secuencia
